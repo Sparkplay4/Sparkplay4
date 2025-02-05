@@ -1,1 +1,12 @@
-streamlit
+backports.tarfile==1.2.0
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+pip-chill==1.0.3
+platformdirs==4.2.2
+psutil==6.1.0
+pyspark==3.5.4
+scikit-learn==1.5.2
+streamlit==1.39.0
+tensorflow==2.18.0
+tomli==2.0.1
+opencv-python-headless
